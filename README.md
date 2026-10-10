@@ -4,25 +4,23 @@ IT Educator | Software Developer | AI Enthusiast | MS IT Researcher
 
 I'm an IT educator and software developer from Mardan, Pakistan, with professional experience in computer science education, web development, database systems, data management, and teacher professional development.
 
-I enjoy building practical technology solutions, helping students and teachers develop digital skills, and exploring how artificial intelligence can support software development, education, and research.
+My work connects technology, education, and computational research. I enjoy building practical software solutions, helping students and teachers develop digital skills, and exploring how artificial intelligence can support software development and learning.
 
-- 👨‍🏫 Teaching computer science and practical ICT skills
+- 👨‍🏫 Teaching computer science and practical ICT
 - 💻 Experienced in web development, databases, and data workflows
-- 🤖 Exploring AI-assisted development, AI applications, and intelligent agents
-- 🔬 Conducting computational geospatial research using satellite-derived data
-- 🌱 Continuously learning, experimenting, and improving my development practices
+- 🤖 Exploring AI-assisted development and intelligent applications
+- 🔬 Conducting computational geospatial research
+- 🌱 Continuously learning, building, and improving
 
 ---
 
 🧭 About Me
 
-My professional work connects three areas: technology development, education, and computational research.
-
-- Software Development: Web applications, database-driven systems, data processing, and automation.
-- Computer Science Education: Teaching programming, computer fundamentals, and practical ICT to secondary-level students.
-- Teacher Professional Development: ICT training, instructional planning, and technology-enabled teaching.
-- AI & Application Development: Exploring AI-assisted software engineering and intelligent applications.
-- Computational Research: Applying geospatial and computational methods to investigate spatial patterns and relationships.
+- Software Development: Web applications, database-driven systems, and automation.
+- Computer Science Education: Programming, computer fundamentals, and practical ICT instruction.
+- Teacher Training: Digital literacy, instructional planning, and technology-enabled teaching.
+- AI & Application Development: Exploring AI-assisted software engineering, AI agents, and LLM-powered applications.
+- Computational Research: Geospatial analysis, satellite-derived indicators, spatial patterns, and decision modeling.
 
 I value practical implementation, clear documentation, and technology that addresses real problems.
 
@@ -32,73 +30,97 @@ I value practical implementation, clear documentation, and technology that addre
 
 Programming & Web Development
 
-"C#" (https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-"ASP.NET" (https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>Databases & Data Management
 
-Databases & Data Management
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/ODK-4050B5?style=for-the-badge" alt="ODK" />
+</p>Tools & Platforms
 
-"SQL Server" (https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-"Supabase" (https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-"ODK" (https://img.shields.io/badge/ODK-4050B5?style=flat-square)
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine" />
+</p>AI, Research & Geospatial Analysis
 
-Tools & Platforms
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-"SharePoint" (https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-"Google Earth Engine" (https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
-
-These technologies reflect a combination of professional experience and ongoing learning. Not every listed technology represents the same level of proficiency or production experience.
+<p align="left">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Remote_Sensing-228B22?style=for-the-badge" alt="Remote Sensing" />
+  <img src="https://img.shields.io/badge/GIS-2E8B57?style=for-the-badge" alt="Geographic Information Systems" />
+  <img src="https://img.shields.io/badge/Spatial_Analysis-4682B4?style=for-the-badge" alt="Spatial Analysis" />
+</p>This stack reflects a combination of professional experience and ongoing learning. Proficiency varies across technologies.
 
 ---
 
 🚀 Projects & Development Interests
 
-My current development interests include educational technology, AI-powered applications, school information systems, and computational research. These are areas of active exploration and planning; public repositories will be linked as implementations become available.
+My current interests include educational technology, AI-powered applications, school information systems, and computational research. The projects below describe development directions and planned work, not necessarily completed or publicly available applications.
 
-🎓 School Admission & Student Management System
+🎓 1. School Admission & Student Management System
 
-A planned digital system for managing student records and school admission workflows.
+A planned digital system for managing school admission records and student administration.
 
 Planned features:
 
 - Student admission and withdrawal records
 - Centralized student database and search
 - Academic history and student documentation
-- Certificates, reports, and administrative workflows
-- Responsive interfaces for practical school use
+- Certificates and administrative reports
+- Responsive interface for practical school workflows
 
-Technologies under consideration: Web technologies, SQL, and Supabase.
+Technologies under consideration: HTML, CSS, JavaScript, SQL, and Supabase.
 
-🤖 AI-Powered Interview Preparation
+🤖 2. AI-Powered Interview Preparation
 
 Exploring an AI-assisted interview preparation platform for students preparing for study-related interviews.
 
 Areas of interest:
 
 - Interactive mock interviews
-- Voice-based question-and-answer workflows
+- Voice-based interview workflows
 - AI-generated feedback and performance evaluation
 - Question banks and knowledge-base integration
 - Web and mobile application development
 
-📚 AI for Education
+📚 3. AI for Education
 
-Exploring practical applications of AI to support students and teachers.
+Exploring practical AI applications that support teachers and students.
 
-Potential directions include educational content generation, worksheet preparation, computer science learning resources, and teacher productivity tools.
+Potential directions include:
 
-🛰️ Computational Geospatial Research
+- Educational content generation
+- Worksheet preparation
+- Computer science learning resources
+- Teacher productivity workflows
+- AI-assisted instructional planning
 
-MS research title: A Computational Geospatial Framework for NDVI–LST Coupling, Hotspot Detection, and Spatial Decision Modeling in Peshawar (2000–2024).
+🛰️ 4. Computational Geospatial Research
 
-My research focuses on computational analysis of vegetation indices and land surface temperature, spatial relationships, hotspot detection, and spatial decision modeling.
+MS research title:
 
-Research tools and methods: Google Earth Engine, Landsat imagery, GIS, NDVI, land surface temperature (LST), and spatial analysis.
+A Computational Geospatial Framework for NDVI–LST Coupling, Hotspot Detection, and Spatial Decision Modeling in Peshawar (2000–2024).
+
+My research investigates vegetation indices, land surface temperature, spatial relationships, hotspot patterns, and computational spatial decision modeling.
+
+Research methods and tools:
+
+- Google Earth Engine
+- Landsat satellite imagery
+- Normalized Difference Vegetation Index (NDVI)
+- Land Surface Temperature (LST)
+- GIS and spatial analysis
+- Hotspot detection and decision modeling
+
+The focus is on computational methods and spatial evidence, with interpretations kept within the limits of the available data.
 
 ---
 
@@ -107,15 +129,17 @@ Research tools and methods: Google Earth Engine, Landsat imagery, GIS, NDVI, lan
 SST-IT
 
 Khyber Pakhtunkhwa Elementary & Secondary Education Department
+
 August 2017 – Present
 
 - Teach computer science and practical ICT at the secondary level.
 - Contribute to teacher induction and continuing professional development activities.
-- Support education-related EMIS/HRIS records and automated reporting workflows.
+- Support EMIS/HRIS records and automated education-related reporting workflows.
 
 Analysis Officer / Web Developer / Senior Database Officer
 
 International Rescue Committee (IRC), Pakistan
+
 December 2014 – August 2017
 
 - Worked on web applications and database-driven humanitarian monitoring systems.
@@ -125,9 +149,10 @@ December 2014 – August 2017
 Software & Web Development
 
 Direct Response Concepts and Directorate of IT, Khyber Pakhtunkhwa
+
 October 2011 – November 2014
 
-Professional development experience in software and web development, including work associated with SharePoint-based systems.
+Professional experience in software and web development, including work associated with SharePoint-based systems.
 
 ICT Visiting Lecturer / Instructor
 
@@ -147,6 +172,8 @@ Delivered professional development workshops focused on instructional planning a
 - Master of Education (M.Ed.) — 2021
 - Bachelor of Education (B.Ed.) — 2019
 - BS Information Technology (Hons.) — 2012
+
+---
 
 📜 Certifications
 
@@ -169,12 +196,12 @@ Delivered professional development workshops focused on instructional planning a
 
 🤝 Collaboration Interests
 
-I'm interested in projects involving:
+I'm interested in collaborating on practical projects involving:
 
 - Educational technology and digital learning
 - AI-powered applications and teacher productivity
 - School management and information systems
-- Web development and database design
+- Web application development and database design
 - Data processing and workflow automation
 - Computational research and geospatial analysis
 
@@ -182,10 +209,17 @@ I'm interested in projects involving:
 
 📫 Connect With Me
 
-- LinkedIn: "Mubbashir Hayat" (https://www.linkedin.com/in/mubbashir-hayat-39115149/)
-- GitHub: "@mubashir96" (https://github.com/mubashir96)
-- Email: Add your preferred professional email address here.
+<p align="left">
+  <a href="https://www.linkedin.com/in/mubbashir-hayat-39115149/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/mubashir96">
+    <img src="https://img.shields.io/badge/GitHub-mubashir96-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>Email: Add your preferred professional email address here.
 
 ---
 
-Learning continuously. Building practically. Teaching purposefully.
+<p align="center">
+  <i>Learning continuously. Building practically. Teaching purposefully.</i>
+</p>
