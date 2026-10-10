@@ -16,11 +16,11 @@ My work connects technology, education, and computational research. I enjoy buil
 
 🧭 About Me
 
-- Software Development: Web applications, database-driven systems, and automation.
-- Computer Science Education: Programming, computer fundamentals, and practical ICT instruction.
-- Teacher Training: Digital literacy, instructional planning, and technology-enabled teaching.
-- AI & Application Development: Exploring AI-assisted software engineering, AI agents, and LLM-powered applications.
-- Computational Research: Geospatial analysis, satellite-derived indicators, spatial patterns, and decision modeling.
+- 💻 Software Development: Web applications, database-driven systems, and automation.
+- 👨‍🏫 Computer Science Education: Programming, computer fundamentals, and practical ICT instruction.
+- 🎓 Teacher Training: Digital literacy, instructional planning, and technology-enabled teaching.
+- 🤖 AI & Application Development: Exploring AI-assisted software engineering, AI agents, and LLM-powered applications.
+- 🛰️ Computational Research: Geospatial analysis, satellite-derived indicators, spatial patterns, and decision modeling.
 
 I value practical implementation, clear documentation, and technology that addresses real problems.
 
@@ -28,7 +28,7 @@ I value practical implementation, clear documentation, and technology that addre
 
 🛠️ Technology Stack
 
-Programming & Web Development
+💻 Programming & Web Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
@@ -36,21 +36,21 @@ Programming & Web Development
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>Databases & Data Management
+</p>🗄️ Databases & Data Management
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/ODK-4050B5?style=for-the-badge" alt="ODK" />
-</p>Tools & Platforms
+</p>⚙️ Tools & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
   <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine" />
-</p>AI, Research & Geospatial Analysis
+</p>🤖 AI, Research & Geospatial Analysis
 
 <p align="left">
   <img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge" alt="Artificial Intelligence" />
@@ -67,7 +67,7 @@ My current interests include educational technology, AI-powered applications, sc
 
 🎓 1. School Admission & Student Management System
 
-A planned digital system for managing school admission records and student administration.
+A planned digital system for managing student admission records and school administration.
 
 Planned features:
 
@@ -75,7 +75,7 @@ Planned features:
 - Centralized student database and search
 - Academic history and student documentation
 - Certificates and administrative reports
-- Responsive interface for practical school workflows
+- Responsive interfaces for practical school workflows
 
 Technologies under consideration: HTML, CSS, JavaScript, SQL, and Supabase.
 
@@ -126,7 +126,7 @@ The focus is on computational methods and spatial evidence, with interpretations
 
 💼 Professional Experience
 
-SST-IT
+👨‍🏫 SST-IT
 
 Khyber Pakhtunkhwa Elementary & Secondary Education Department
 
@@ -136,7 +136,7 @@ August 2017 – Present
 - Contribute to teacher induction and continuing professional development activities.
 - Support EMIS/HRIS records and automated education-related reporting workflows.
 
-Analysis Officer / Web Developer / Senior Database Officer
+💻 Analysis Officer / Web Developer / Senior Database Officer
 
 International Rescue Committee (IRC), Pakistan
 
@@ -146,7 +146,7 @@ December 2014 – August 2017
 - Used ASP.NET, SQL Server, and ODK in data collection and management workflows.
 - Contributed to data processing, cleaning, and reporting automation.
 
-Software & Web Development
+🖥️ Software & Web Development
 
 Direct Response Concepts and Directorate of IT, Khyber Pakhtunkhwa
 
@@ -154,11 +154,11 @@ October 2011 – November 2014
 
 Professional experience in software and web development, including work associated with SharePoint-based systems.
 
-ICT Visiting Lecturer / Instructor
+🎓 ICT Visiting Lecturer / Instructor
 
 Teaching and training activities associated with KMU Institute of Health Sciences and teacher induction programs, supporting learners in ICT and digital tools.
 
-Master Trainer
+🏅 Master Trainer
 
 Continuing Professional Development (CPD) Program, Pakistan
 
@@ -168,29 +168,35 @@ Delivered professional development workshops focused on instructional planning a
 
 🎓 Education
 
-- MS Information Technology — University of Agriculture, Peshawar (in progress)
-- Master of Education (M.Ed.) — 2021
-- Bachelor of Education (B.Ed.) — 2019
-- BS Information Technology (Hons.) — 2012
+- 🎓 MS Information Technology — University of Agriculture, Peshawar (in progress)
+- 🎓 Master of Education (M.Ed.) — 2021
+- 🎓 Bachelor of Education (B.Ed.) — 2019
+- 🎓 BS Information Technology (Hons.) — 2012
 
 ---
 
-📜 Certifications
+📜 Professional Certifications
 
-- Microsoft Certified Solutions Associate (MCSA): Web Applications — 2016
-- Microsoft Certified Professional (MCP) — 2013
-- Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3 — 2013
+<p>
+  <img src="https://img.shields.io/badge/🏅_Microsoft-MCSA_Web_Applications-0078D4?style=for-the-badge" alt="Microsoft Certified Solutions Associate: Web Applications, 2016" />
+</p><p>
+  <img src="https://img.shields.io/badge/🏅_Microsoft-MCP-5E5E5E?style=for-the-badge" alt="Microsoft Certified Professional, 2013" />
+</p><p>
+  <img src="https://img.shields.io/badge/🏅_Microsoft-HTML5_JavaScript_CSS3-217346?style=for-the-badge" alt="Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3, 2013" />
+</p>- 🏅 Microsoft Certified Solutions Associate (MCSA): Web Applications — 2016
+- 🏅 Microsoft Certified Professional (MCP) — 2013
+- 🏅 Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3 — 2013
 
 ---
 
 📖 Current Learning Focus
 
-- AI-assisted software development and application architecture
-- Full-stack web development and database-backed applications
-- AI agents and large language model integration
-- Software development lifecycle, testing, debugging, and version control
-- Computational geospatial analysis and spatial decision modeling
-- Educational technology and digital learning workflows
+- 🤖 AI-assisted software development and application architecture
+- 🌐 Full-stack web development and database-backed applications
+- 🧠 AI agents and large language model integration
+- 🧪 Software development lifecycle, testing, debugging, and version control
+- 🛰️ Computational geospatial analysis and spatial decision modeling
+- 📚 Educational technology and digital learning workflows
 
 ---
 
@@ -216,10 +222,13 @@ I'm interested in collaborating on practical projects involving:
   <a href="https://github.com/mubashir96">
     <img src="https://img.shields.io/badge/GitHub-mubashir96-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-</p>Email: Add your preferred professional email address here.
+  <a href="mailto:mubashir.hayat63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mubbashir Hayat" />
+  </a>
+</p>📧 Email: "mubashir.hayat63@gmail.com" (mailto:mubashir.hayat63@gmail.com)
 
 ---
 
 <p align="center">
-  <i>Learning continuously. Building practically. Teaching purposefully.</i>
+  <b>Learning continuously. Building practically. Teaching purposefully.</b>
 </p>
