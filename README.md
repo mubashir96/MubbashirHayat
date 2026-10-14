@@ -178,17 +178,17 @@ Delivered professional development workshops focused on instructional planning a
 ## 📜 Professional Certifications
 
 <p>
-  - 🏅 **Microsoft Certified Solutions Associate (MCSA): Web Applications** — 2016
+  - 🏅 **Microsoft Certified Solutions Associate (MCSA): Web Applications**  — 2016
   <img src="https://img.shields.io/badge/🏅_Microsoft-MCSA_Web_Applications-0078D4?style=for-the-badge" alt="Microsoft Certified Solutions Associate: Web Applications, 2016" />
 </p>
 
 <p>
-  - 🏅 **Microsoft Certified Professional (MCP)** — 2013
+  - 🏅 **Microsoft Certified Professional (MCP)**  — 2013
   <img src="https://img.shields.io/badge/🏅_Microsoft-MCP-5E5E5E?style=for-the-badge" alt="Microsoft Certified Professional, 2013" />
 </p>
 
 <p>
-  - 🏅 **Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3** — 2013
+  - 🏅 **Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3**  — 2013
   <img src="https://img.shields.io/badge/🏅_Microsoft-HTML5_JavaScript_CSS3-217346?style=for-the-badge" alt="Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3, 2013" />
 </p>
 
